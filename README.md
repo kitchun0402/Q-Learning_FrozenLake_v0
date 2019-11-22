@@ -1,1 +1,1 @@
-# Q-Learning_FrozenLake_v0
+# Reinforcement Learning - Q Learning
